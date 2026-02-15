@@ -17,7 +17,7 @@ Customer churn is a multi-billion dollar challenge. This project provides an end
 
 ---
 
-## 🏗️ Project Architecture
+##  Project Architecture
 The repository follows a modular "Production-Lite" structure to separate data logic from the user interface.
 
 ### **The ML Pipeline**
@@ -28,7 +28,7 @@ The repository follows a modular "Production-Lite" structure to separate data lo
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 | Component | Technology |
 | :--- | :--- |
 | **Language** | Python 3.9+ |
