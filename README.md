@@ -49,7 +49,7 @@ churn-prediction/
 └── README.md
 
 ⚙️ Installation
-git clone https://github.com/your-username/churn-prediction.git
+git clone https://github.com/HajarBoulmane/churn-prediction.git
 cd churn-prediction
 python -m venv .venv
 source .venv/bin/activate   # Linux/macOS
@@ -61,15 +61,3 @@ streamlit run app/app.py
 
 
 Open your browser at: http://localhost:8501
-
-🧪 How It Works
-
-Input customer information (demographics, services, billing)
-
-Predict churn probability (0–100%)
-
-Binary prediction: CHURN or STAY
-
-Visual indicators (risk gauge, colored alerts)
-
-Insights section explains key features affecting churn
