@@ -1,0 +1,11 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Optional: common ML / data files you don't want
+*.csv
+*.h5
+*.pkl
